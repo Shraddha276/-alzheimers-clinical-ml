@@ -1,5 +1,4 @@
-\# Alzheimer’s Disease Clinical Machine Learning
-
+Alzheimer’s Disease Clinical Machine Learning
 
 
 This project implements a clinical machine learning pipeline to classify
@@ -10,21 +9,21 @@ from the OASIS-1 dataset.
 
 
 
-\## Features
+Features
 
-\- Clinical variable selection (Age, Education, MMSE)
+- Clinical variable selection (Age, Education, MMSE)
 
-\- Missing value handling
+- Missing value handling
 
-\- Binary diagnosis labeling using CDR
+- Binary diagnosis labeling using CDR
 
-\- Logistic regression model
+- Logistic regression model
 
-\- Model evaluation using accuracy
+- Model evaluation using accuracy
 
 
 
-\## Data
+Data
 
 Data were provided in part by the Open Access Series of Imaging Studies (OASIS-1).
 
@@ -32,7 +31,7 @@ Raw data are not included due to data use restrictions.
 
 
 
-\## Disclaimer
+Disclaimer
 
 This project is for educational and research demonstration purposes only.
 
